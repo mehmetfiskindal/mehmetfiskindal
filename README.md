@@ -1,19 +1,68 @@
-# Hi there, I'm @mehmetfiskindal👋
+# 👋 Hi, I'm Mehmet Fışkındal
 
-I'm a passionate developer with a keen interest in Mobile App development, web, and backend technologies. I enjoy working with Swift and Dart, and I often use TypeScript in my projects. For me, `Framework and language are just tools.`
+🚀 **Flutter & Node.js Developer | Mobile Product Developer**
 
+I build user-focused, scalable mobile applications and end-to-end digital products.
 
-# 💻 Tech Stack:
+I developed and published **Fikeyword**, a mobile word game available on App Store and Google Play, where I managed the full product lifecycle from idea to launch and continuous improvement.
 
-![Swift](https://img.shields.io/badge/swift-F54A2A?style=for-the-badge&logo=swift&logoColor=white) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+---
 
-## 💌 How to Reach Me
+## 🧠 About Me
 
-- Email: [mehmetfiskindal@gmail.com](mailto:mehmetfiskindal@gmail.com)
-- LinkedIn: [Mehmet Fışkındal](https://www.linkedin.com/in/mehmet-f%C4%B1%C5%9Fk%C4%B1ndal-41309b56)
-- Twitter: [@mehmetfiskindal](https://twitter.com/mehmetfiskindal)
+* 📱 Focused on **Flutter mobile app development**
+* 🔁 Experienced in **full product lifecycle (plan → build → launch → iterate)**
+* ⚙️ Build backend systems with **Node.js, Express.js, PostgreSQL**
+* ☁️ Use **Firebase (Auth, Firestore, Cloud Functions)** for scalable architectures
+* 🎯 Product-oriented mindset: I build solutions for real users, not just code
 
-<!---
-mehmetfiskindal/mehmetfiskindal is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
---->
+---
 
+## 🚀 Featured Project
+
+### 📱 Fikeyword
+
+* Mobile word game built with Flutter
+* Published on **App Store & Google Play**
+* **3900+ words** content base
+* Built full backend with Firebase
+* Managed product lifecycle end-to-end
+* Continuously improved with user feedback
+
+---
+
+## 💻 Tech Stack
+
+### 📱 Mobile
+
+* Flutter, Dart
+
+### 🌐 Backend
+
+* Node.js, Express.js
+* PostgreSQL, Prisma
+
+### ☁️ Cloud
+
+* Firebase (Auth, Firestore, Functions)
+
+### 🎨 Frontend
+
+* React, TypeScript, JavaScript
+
+### 🛠 Tools
+
+* Git, GitHub
+
+---
+
+## 📬 Contact Me
+
+* 📧 Email: [mehmetfiskindal@gmail.com](mailto:mehmetfiskindal@gmail.com)
+* 💼 LinkedIn: [https://www.linkedin.com/in/mehmet-f%C4%B1%C5%9Fk%C4%B1ndal-41309b56](https://www.linkedin.com/in/mehmet-f%C4%B1%C5%9Fk%C4%B1ndal-41309b56)
+* 🐦 Twitter: [https://twitter.com/mehmetfiskindal](https://twitter.com/mehmetfiskindal)
+* 🖼️ resume: (https://github.com/mehmetfiskindal/mehmetfiskindal/blob/main/mehmetfiskindal_flutter_developer.pdf)
+
+---
+
+> "I don’t just write code — I build products used by real users."
