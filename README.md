@@ -61,7 +61,7 @@ I developed and published **Fikeyword**, a mobile word game available on App Sto
 * 📧 Email: [mehmetfiskindal@gmail.com](mailto:mehmetfiskindal@gmail.com)
 * 💼 LinkedIn: [https://www.linkedin.com/in/mehmetfiskindal](https://www.linkedin.com/in/mehmetfiskindal)
 * 🐦 Twitter: [https://twitter.com/mehmetfiskindal](https://twitter.com/mehmetfiskindal)
-* 🖼️ resume: (https://github.com/mehmetfiskindal/mehmetfiskindal/blob/main/mehmetfiskindal_flutter_developer.pdf)
+* 🖼️ resume: ([https://github.com/mehmetfiskindal/mehmetfiskindal/blob/main/mehmet-fullstack-mobil.pdf](https://github.com/mehmetfiskindal/mehmetfiskindal/blob/main/mehmet-fullstack-mobil.pdf))
 
 ---
 
