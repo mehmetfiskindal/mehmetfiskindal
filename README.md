@@ -1,10 +1,8 @@
 # 👋 Hi, I'm Mehmet Fışkındal
 
-🚀 **Flutter & Node.js Developer | Mobile Product Developer**
+🚀 **Flutter & Mobile Developer | Software Engineer**
 
 I build user-focused, scalable mobile applications and end-to-end digital products.
-
-I developed and published **Fikeyword**, a mobile word game available on App Store and Google Play, where I managed the full product lifecycle from idea to launch and continuous improvement.
 
 ---
 
@@ -18,51 +16,89 @@ I developed and published **Fikeyword**, a mobile word game available on App Sto
 
 ---
 
-## 🚀 Featured Project
+## 🎓 Education
+
+**Bilgisayar Programcılığı (Associate Degree)** \
+Hitit Üniversitesi Sungurlu Meslek Yüksekokulu \
+*Oct 2019 – Sep 2021*
+
+---
+
+## 💼 Work Experience
+
+**Freelance Software Developer** \
+*Nov 2024 – Present*
+
+* Automotive coating and film application services - Dealer management software
+* Pricing, stock management and order tracking modules
+
+**Remmsoft** | Intern \
+*2 Months*
+
+* Support in software development processes
+
+---
+
+## 🚀 Featured Projects
 
 ### 📱 Fikeyword
-
-* Mobile word game built with Flutter
-* Published on **App Store & Google Play**
+Mobile word game built with Flutter, published on **App Store & Google Play**
 * **3900+ words** content base
 * Built full backend with Firebase
 * Managed product lifecycle end-to-end
-* Continuously improved with user feedback
+
+### 🔐 FiOTP
+Two-Factor Authentication (2FA/TOTP) app compliant with RFC 6238 and RFC 4226
+* AES-256-GCM encrypted local vault
+* `otpauth://` URI parsing, QR code scanning
+* Encrypted JSON backup
+
+### 🏨 Mete Otel Website
+Hotel website development
+
+### 🎮 Fiadisyon
+Restaurant Order & Business Management System
+
+### 🧒 Cocuk Dunyasi Kres
+Kindergarten management and website projects
+
+### 📄 CV Generator (cvgeanetor)
+JSON-based CV creation tool - No need for Word, Figma or paid CV creators
 
 ---
 
 ## 💻 Tech Stack
 
 ### 📱 Mobile
-
 * Flutter, Dart
 
-### 🌐 Backend
-
+### 🌐 Web & Backend
+* JavaScript, HTML, CSS
 * Node.js, Express.js
 * PostgreSQL, Prisma
 
 ### ☁️ Cloud
-
 * Firebase (Auth, Firestore, Functions)
 
-### 🎨 Frontend
-
-* React, TypeScript, JavaScript
-
 ### 🛠 Tools
-
-* Git, GitHub
+* Git, GitHub, VS Code
 
 ---
 
-## 📬 Contact Me
+## 🌍 Languages
+
+* **Turkish** - Native
+* **English** - Basic
+
+---
+
+## 📬 Contact
 
 * 📧 Email: [mehmetfiskindal@gmail.com](mailto:mehmetfiskindal@gmail.com)
-* 💼 LinkedIn: [https://www.linkedin.com/in/mehmetfiskindal](https://www.linkedin.com/in/mehmetfiskindal)
-* 🐦 Twitter: [https://twitter.com/mehmetfiskindal](https://twitter.com/mehmetfiskindal)
-* 🖼️ resume: [https://github.com/mehmetfiskindal/mehmetfiskindal/blob/main/cv-mehmet-fiskindal-full-2026-06-01.pdf](cv-mehmet-fiskindal-full-2026-06-01.pdf)
+* 💼 LinkedIn: [linkedin.com/in/mehmetfiskindal](https://www.linkedin.com/in/mehmetfiskindal)
+* 🐦 GitHub: [github.com/mehmetfiskindal](https://github.com/mehmetfiskindal)
+* 🖼️ CV (LaTeX): [cv-mehmet-fiskindal.tex](cv-mehmet-fiskindal.tex)
 
 ---
 
-> "I don’t just write code — I build products used by real users."
+> "I don't just write code — I build products used by real users."
