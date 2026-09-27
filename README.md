@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Mehmet Fışkındal
 
-🚀 **Flutter & Mobile Developer | Software Engineer**
+🚀 **Flutter & Mobile Developer | Software Developer**
 
 I build user-focused, scalable mobile applications and end-to-end digital products.
 
